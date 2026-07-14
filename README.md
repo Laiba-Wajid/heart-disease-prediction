@@ -61,7 +61,7 @@ The binary target is derived from the `num` column:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-python heart_disease_prediction.py
+python heart_disease.py
 ```
 
 > `heart.csv` is included in the repository — no additional setup required.
